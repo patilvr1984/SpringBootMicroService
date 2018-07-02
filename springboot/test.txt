@@ -1,0 +1,9 @@
+<employee>
+    <lsData>
+        <department>EDC</department>
+        <designation>SSE</designation>
+        <empId>102</empId>
+        <name>Nitin</name>
+        <type>Developer</type>
+    </lsData>
+</employee>
